@@ -22,6 +22,10 @@ With guidance using Claude AI, I write a beginner python script and I call it ly
 I used Claude to generate the Python script, then built the virtual machine, ran the audit myself, tested the script on my own Dell Latitude system, and can explain what each part does.
 
 
+<img width="545" height="389" alt="Screenshot 2026-11-13 at 7 38 00 PM" src="https://github.com/user-attachments/assets/bc23d8b4-6315-43f4-bfbb-15c8baa89d45" />
+
+
+
 ## Step 4:
 The report file belongs to root, so the script needs sudo:
 
