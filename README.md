@@ -24,6 +24,8 @@ I used Claude to generate the Python script, then built the virtual machine, ran
 
 ## Step 4:
 The report file belongs to root, so the script needs sudo:
+
+
 <img width="540" height="85" alt="Screenshot 2026-11-13 at 7 21 24 PM" src="https://github.com/user-attachments/assets/b4c239d9-a785-4227-a91d-05490f888b51" />
 
 ## What I Learned
