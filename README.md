@@ -33,7 +33,7 @@ The report file belongs to root, so the script needs sudo:
 <img width="540" height="85" alt="Screenshot 2026-11-13 at 7 21 24 PM" src="https://github.com/user-attachments/assets/b4c239d9-a785-4227-a91d-05490f888b51" />
 
 ## What I Learned
-I ran my first lynis audit system in Kali Linux
-I installed my first virtual machine in virtual Box
-A few lines of Python can turn that text into a report
-I can save my python file and place it directly into the terminal
+* I ran my first lynis audit system in Kali Linux
+* I installed my first virtual machine in virtual Box
+* A few lines of Python can turn that text into a report
+* I can save my python file and place it directly into the terminal
