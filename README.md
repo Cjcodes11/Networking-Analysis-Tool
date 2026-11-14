@@ -18,7 +18,7 @@ I start the audit
 <img width="545" height="81" alt="Screenshot 2026-11-13 at 7 18 42 PM" src="https://github.com/user-attachments/assets/70df0af2-7390-4118-b8cb-e360e5a399aa" />
 
 ## Step 3:
-With guidance using Claude AI, I write a beginner python script and I call it lynis_summary.py. 
+I wrote a beginner python script and I call it lynis_summary.py. 
 I used Claude to generate the Python script, then built the virtual machine, ran the audit myself, tested the script on my own Dell Latitude system, and can explain what each part does.
 
 
