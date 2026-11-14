@@ -4,14 +4,17 @@
 Lynis is a free tool that is designed to check a Linux or MacOS system for security vulnerabilities. It runs many tests and gives the system a hardening index, a score from 0 to 100. 
 
 ## Step 1:
-On Kali
+On Kali:
+
 <img width="544" height="106" alt="Screenshot 2026-11-13 at 7 17 38 PM" src="https://github.com/user-attachments/assets/71854d6c-cdcd-4f5f-81bb-d787b7d5ce21" />
 
 I check to see that it works:
+
 <img width="540" height="84" alt="Screenshot 2026-11-13 at 7 18 15 PM" src="https://github.com/user-attachments/assets/52988997-af9b-4984-94f0-df27a63744bb" />
 
 ## Step 2:
 I start the audit
+
 <img width="545" height="81" alt="Screenshot 2026-11-13 at 7 18 42 PM" src="https://github.com/user-attachments/assets/70df0af2-7390-4118-b8cb-e360e5a399aa" />
 
 ## Step 3:
